@@ -1,6 +1,6 @@
 # Thermometer-with-working-indicator
-Thermometer with working indicator
+Optimum short-term storage temperature ranges (Â°C)
 <br/>
-Optimum "short-term" storage temperature ranges (°C)
+Thermometer with working indicator
 <br>
-Run index.html that's it.
+Open index.html in any browser.
