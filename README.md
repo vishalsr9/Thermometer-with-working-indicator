@@ -7,4 +7,8 @@ CDN used bootstrap, jquery, swiperjs
 <br/>
 Thermometer with working indicator
 <br>
-
+Folder structure:
+Root<br>
+|<br>
+|__ assets<br>
+|__ index.html
