@@ -6,7 +6,7 @@ HTML, CSS, JavaScript<br>
 CDN used bootstrap, jquery, swiperjs
 <br/>
 Thermometer with working indicator
-<br>
+<br><br>
 Folder structure:<br>
 Root<br>
 |<br>
