@@ -11,8 +11,5 @@ Folder structure:<br>
 Root<br>
 |<br>
 |__ assets<br>
-|   |__css<br>
-|   |__images<br>
-|   |__scripts<br>
 |__ index.html
 
